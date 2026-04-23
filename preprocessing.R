@@ -3,8 +3,6 @@
 
 # ── 1. LEITURA ─────────────────────────────────────────────────────────────────
 
-setwd('C:\\Users\\User\\OneDrive\\Pesquisa\\00_MeusProjetos\\CensoFetichista')
-
 carregar_base <- function(caminho = 'dados/CensoFetichista_BaseBruta.xlsx') {
   wb   <- wb_load(caminho)
   base <- as.data.table(wb_read(wb, sheet = 'Dados'))
