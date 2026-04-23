@@ -10,7 +10,7 @@ O Censo Fetichista Brasileiro é a primeira pesquisa de mapeamento sistemático 
 
 O dashboard está organizado em seis abas:
 
-- **Demográfico:** perfil de gênero, orientação sexual, faixa etária, raça/cor, escolaridade, renda e distribuição geográfica
+- **Demográfico:** perfil de gênero, orientação sexual, faixa etária, raça/cor, escolaridade, renda e geográfico
 - **Saúde:** indicadores de PcD, neurodivergência, psicoterapia e medicação, cruzados por perfil
 - **Identidade:** autoidentificação, papéis de jogo, relação com BDSM e fetichismo, trajetória de envolvimento
 - **Fetiches:** ranking de interesse e prática, análise de aspiração vs. experiência
