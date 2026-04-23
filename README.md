@@ -80,6 +80,15 @@ censo-fetichista/
 
 ---
 
+## Desenvolvimento assistido por IA
+
+O desenvolvimento deste dashboard contou com assistência do modelo Claude Sonnet 4.6 (Anthropic, 2025) para geração, revisão e depuração de código R/Shiny. Todo o código foi supervisionado, adaptado e validado pelos autores.
+
+Anthropic. (2025). Claude Sonnet 4.6 [Modelo de linguagem]. https://www.anthropic.com
+
+
+---
+
 ## Stack técnico
 
 | Componente | Tecnologia |
